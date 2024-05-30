@@ -1,0 +1,31 @@
+body{
+    
+    background-image: url(./img/ala.jpg);
+    padding: 50px;
+    background-size: 1320px ;
+    color: aqua;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed ;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 5px;
+    padding-bottom: 100px;
+}
+.col {
+    margin-top: 15px;
+    padding-bottom: 15px;
+}
+button {
+    background-color: green;
+    color: black;
+    
+    margin-top: 15px;
+    margin-right: 45px;
+}
+footer {
+    color: blueviolet;
+    width: 500px;
+}
